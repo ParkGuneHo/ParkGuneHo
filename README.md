@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|     Type    |        Date       |       Contents       | Organization |
+|:-----------:|:-----------------:|:--------------------:|:------------:|
+|  Education  | 2016.03 ~ 2022.02 | Computer Engineering |  Gachon.Univ |
+|  Internship | 2021.08 ~ 2022.02 |        DevOps        |   UNIPOINT   |
+| Study Group | 2019.03 ~ 2021.02 |       Algorithm      |  Gachon.Univ |
