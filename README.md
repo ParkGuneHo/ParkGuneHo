@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 |     Type    |        Date       |       Contents       | Organization |
 |:-----------:|:-----------------:|:--------------------:|:------------:|
 |  Education  | 2016.03 ~ 2022.02 | Computer Engineering |  Gachon.Univ |
-| Study Group | 2019.03 ~ 2021.02 |       Algorithm      |  Gachon.Univ |
+| Study Group | 2019.03 ~ 2021.02 |       Algorithm      |      NOJ     |
 |  Internship | 2021.08 ~ 2022.02 |        DevOps        |   UNIPOINT   |
 
