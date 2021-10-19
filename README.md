@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ParkGuneHo/ParkGuneHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +20,4 @@ Here are some ideas to get you started:
 | Study Group | 2019.03 ~ 2021.02 |       Algorithm      |      NOJ     |
 |  Internship | 2021.08 ~ 2022.02 |        DevOps        |   UNIPOINT   |
 
+c, C++, Python, Java, Html, Linux
