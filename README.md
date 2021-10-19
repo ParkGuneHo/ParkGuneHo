@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 | Study Group | 2019.03 ~ 2021.02 |       Algorithm      |      NOJ     |
 |  Internship | 2021.08 ~ 2022.02 |        DevOps        |   UNIPOINT   |
 
-C, C++, Python, Java, JS, Spring, Kotlin, Html, Linux
+C, C++, Python, Java, JS, Kotlin, Html, Linux
