@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 |:-----------:|:-----------------:|:--------------------:|:------------:|
 |  Education  | 2016.03 ~ 2022.02 | Computer Engineering |  Gachon.Univ |
 | Study Group | 2019.03 ~ 2021.02 |       Algorithm      |      NOJ     |
-|  Internship | 2021.08 ~         |        DevOps        |   UNIPOINT   |
+|   Company   | 2021.08 ~         |        DevOps        |   UNIPOINT   |
 
 C, C++, Python, Java, JS, Kotlin, Html, Linux
